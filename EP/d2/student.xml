@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student number="kgc_0001">
+    <name id="kgc">
+    <xing>张</xing>
+    <ming>三</ming>
+    </name>
+    <age>18</age>
+    <sex>女</sex>
+    </student>
+    <student number="kgc_0002">
+    <name>jack</name>
+    <age>18</age>
+    <sex>男</sex>
+     </student>
+</students>

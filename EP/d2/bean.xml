@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<beans>
+    <bean id="1" className="com.kgc.demo.User">
+        <proprect name="user" value="jack">姚新林</proprect>
+        <proprect name="user" value="rose">裴昕怡</proprect>
+    </bean>
+
+    <bean id="2" className="com.kgc.demo.Admin">
+        <proprect name="user" value="admin">姚哥</proprect>
+        <proprect name="user" value="admin2">裴裴</proprect>
+
+    </bean>
+
+</beans>
